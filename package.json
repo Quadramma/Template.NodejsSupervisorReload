@@ -1,0 +1,12 @@
+{
+  "name"         : "npmPackageTemplate",
+  "version"      : "0.0.0",
+  "description"  : "",
+  "main"         : "",
+  "author"       : "JLA",
+  "dependencies" : {
+      "supervisor" : "latest",
+      "reload"  : "latest",
+      "express" : "latest"
+    }
+  }
